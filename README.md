@@ -2,4 +2,4 @@
 
 < Aula comandos básicos
 
-* Fork de: _nome_
+* Fork de: _name_
